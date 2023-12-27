@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/switch_close.png</file>
+        <file>image/switch_open.png</file>
+        <file>image/check_func_ok.png</file>
+        <file>image/check_func_failed.png</file>
+        <file>image/check_func_reset.png</file>
+        <file>image/serialShowhide.png</file>
+        <file>image/serialShowOpen.png</file>
+        <file>image/home.png</file>
+        <file>image/moduleGetError.png</file>
+        <file>image/radiobutton_checked.png</file>
+        <file>image/csqGetError.png</file>
+        <file>image/internetGetError.png</file>
+        <file>image/quectel.ico</file>
+        <file>image/deviceConfig.png</file>
+        <file>image/historyShow.png</file>
+        <file>image/critical_icon.png</file>
+        <file>image/check_func_reset_gray.png</file>
+    </qresource>
+</RCC>
